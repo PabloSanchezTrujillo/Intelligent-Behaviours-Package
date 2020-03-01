@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/FULL_Inteligent Behaviours Package/Demos/Behaviour Tree demo/Behaviour
+    tree demo.unity
+  isLoaded: 1
+  isActive: 1
